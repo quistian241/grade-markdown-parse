@@ -1,7 +1,7 @@
 
-if [ ! -d "$1" ]; then
+# if [ ! -d "$1" ]; then
     git clone $1
-fi
+# fi
 
 cp GradingTests.java markdown-parse/
 cd markdown-parse
