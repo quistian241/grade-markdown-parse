@@ -1,3 +1,5 @@
+// ./grade.sh https://github.com/quistian241/markdown-parse 
+// chmod 777 grade.sh
 import static org.junit.Assert.*;
 import org.junit.*;
 
